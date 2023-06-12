@@ -18,3 +18,6 @@ This organization is split into four main repositories:
 - [Listener](https://github.com/TangleTunes/listener): A mobile application to listen to music on the TangleTunes network.
 - [Validator](https://github.com/TangleTunes/admin_server): A website for uploading/validating songs and monitoring system information.
 - [Smart contract](https://github.com/TangleTunes/smart_contract): The smart contract definition.
+
+# Report
+The final design report can be found at [here](https://github.com/TangleTunes/.github/blob/main/TangleTunes%20-%20Design%20Report.pdf).
